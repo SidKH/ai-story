@@ -4,8 +4,6 @@ Minimalistic interactive AI story generator.
 
 https://github.com/user-attachments/assets/4af4ff9b-ae9c-4202-97bd-9c73690cb9bc
 
-
-
 **1. Add [open router](https://openrouter.ai/) api key to .env**
 
 ```bash
@@ -23,3 +21,5 @@ npm install
 ```bash
 npm run dev
 ```
+
+[Next.js Documentation](https://nextjs.org/docs)
