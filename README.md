@@ -6,11 +6,12 @@ https://github.com/user-attachments/assets/4af4ff9b-ae9c-4202-97bd-9c73690cb9bc
 
 **1. Add [open router](https://openrouter.ai/) api key to .env**
 
-_If you want to use other AI providers, you can change it [here](https://github.com/SidKH/ai-story/blob/main/app/api/chat/route.tsx#L15)_
-
 ```bash
 OPEN_ROUTER_API_KEY=your-api-key
 ```
+
+_If you want to use other AI providers, you can change it [here](https://github.com/SidKH/ai-story/blob/main/app/api/chat/route.tsx#L15)_  
+_Available providers: [AI SDK Providers](https://ai-sdk.dev/providers/ai-sdk-providers)_
 
 **2. Install dependencies**
 
