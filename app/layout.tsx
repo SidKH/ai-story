@@ -32,7 +32,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${lora.variable}`}>{children}</body>
+      <body className={`${inter.variable} ${lora.variable} bg-[#F5F4EE]`}>
+        {children}
+      </body>
     </html>
   );
 }
